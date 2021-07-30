@@ -1,0 +1,2 @@
+test
+-DCATKIN_DEVEL_PREFIX=/home/bosonlee/arrow_test/devel -DCMAKE_INSTALL_PREFIX=/home/bosonlee/arrow_test/install -G Unix Makefiles

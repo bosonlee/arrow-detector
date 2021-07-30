@@ -1,0 +1,10 @@
+EPOCH=001,Accuracy= 33.083%
+EPOCH=002,Accuracy= 33.083%
+EPOCH=003,Accuracy= 33.083%
+EPOCH=004,Accuracy= 33.083%
+EPOCH=005,Accuracy= 45.583%
+EPOCH=006,Accuracy= 57.667%
+EPOCH=007,Accuracy= 53.167%
+EPOCH=008,Accuracy= 62.833%
+EPOCH=009,Accuracy= 74.000%
+EPOCH=010,Accuracy= 70.167%
